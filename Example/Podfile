@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ADSwiftExtensions_Tests' do
+  pod 'ADSwiftExtensions', :path => '../'
+  
+  
+end

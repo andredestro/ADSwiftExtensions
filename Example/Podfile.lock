@@ -1,0 +1,16 @@
+PODS:
+  - ADSwiftExtensions (0.1.0)
+
+DEPENDENCIES:
+  - ADSwiftExtensions (from `../`)
+
+EXTERNAL SOURCES:
+  ADSwiftExtensions:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ADSwiftExtensions: 709186634c486767081d86b878d2b42cad0658a7
+
+PODFILE CHECKSUM: 05b05f28689093917320a6df9d04045771dc22d3
+
+COCOAPODS: 1.6.0.beta.2
