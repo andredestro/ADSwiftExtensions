@@ -1,6 +1,6 @@
 # ADSwiftExtensions
 
-[![CI Status](https://img.shields.io/travis/André Felipe Destro/ADSwiftExtensions.svg?style=flat)](https://travis-ci.org/André Felipe Destro/ADSwiftExtensions)
+[![CI Status](https://img.shields.io/travis/André%20Felipe%20Destro/ADSwiftExtensions.svg?style=flat)](https://travis-ci.org/André%20Felipe%20Destro/ADSwiftExtensions)
 [![Version](https://img.shields.io/cocoapods/v/ADSwiftExtensions.svg?style=flat)](https://cocoapods.org/pods/ADSwiftExtensions)
 [![License](https://img.shields.io/cocoapods/l/ADSwiftExtensions.svg?style=flat)](https://cocoapods.org/pods/ADSwiftExtensions)
 [![Platform](https://img.shields.io/cocoapods/p/ADSwiftExtensions.svg?style=flat)](https://cocoapods.org/pods/ADSwiftExtensions)
